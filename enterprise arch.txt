@@ -1,0 +1,7 @@
+Enterprise Application Architecture
+1) Client Server Architecture (Web App - Servlets,JSP,ASP,PHP,.Net)
+2) Distributed Architecture (RMI,CORBA,DCOM) 
+3) Messaging Architecture (JMS)
+4) SOA Architecture
+5) ROA Architecture (Microservices Based Arch)
+
